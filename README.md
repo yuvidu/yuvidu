@@ -1,11 +1,9 @@
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="center">Hi 👋, I'm Yuvidu Yasasvin</h1>
-<h3 align="center">a passionate software developer and a 3rd-year student at SLIIT. I specialize in: C# and Windows Forms Development: Building robust desktop applications with a focus on user-friendly interfaces and efficient backend systems. MERN Stack Development: Creating full-stack web applications using MongoDB, Express.js, React, and Node.js. Database Management: Implementing and managing databases to ensure data integrity and optimal performance. PHP Development: Crafting dynamic and interactive web pages with a solid understanding of server-side scripting.</h3>
+<h3 align="center">a passionate software developer and a 4th-year student at SLIIT. I specialize in: C# and Windows Forms Development: Building robust desktop applications with a focus on user-friendly interfaces and efficient backend systems. MERN Stack Development: Creating full-stack web applications using MongoDB, Express.js, React, and Node.js. Database Management: Implementing and managing databases to ensure data integrity and optimal performance. PHP Development: Crafting dynamic and interactive web pages with a solid understanding of server-side scripting.</h3>
 
-- 🔭 I’m currently working on **C#**
-
-- 🌱 I’m currently learning **angular, Spring Boot**
+- 🔭 I’m currently working on **javascript with realtime communication (socket)**
 
 - 📫 How to reach me **yasasvinyuvidu@gmail.com**
 
