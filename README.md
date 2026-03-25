@@ -1,7 +1,7 @@
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="center">Hi 👋, I'm Yuvidu Yasasvin</h1>
-<h3 align="center">a passionate alien 👾 trying out human experiences for a bit . i make apps</h3>
+<h3 align="center"></h3>
 
 - 🔭 I’m currently working on **javascript with realtime communication (socket)**
 
